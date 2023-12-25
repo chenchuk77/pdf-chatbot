@@ -1,0 +1,5 @@
+__pycache__/
+notebook.log
+venv/
+.ipynb_checkpoints/
+vectorstore/
